@@ -107,7 +107,7 @@
     </div>
   </div>
 
-  
+  <?php include 'header.php'; ?>
   <div class='centerDiv'>
 
     <div class='left_div grid-item'>
